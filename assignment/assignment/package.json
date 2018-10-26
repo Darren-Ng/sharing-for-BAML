@@ -1,0 +1,22 @@
+{
+    "name": "pab-cms-dashboard",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test --env=jsdom",
+        "eject": "react-scripts eject"
+    },
+    "dependencies": {
+        "moment": "^2.22.2",
+        "react": "^16.4.2",
+        "react-dom": "^16.4.2",
+        "react-fetch-wrapper": "^2.0.0",
+        "react-history": "^0.18.2",
+        "react-moment": "^0.7.9",
+        "react-router": "^4.3.1",
+        "react-router-dom": "^4.3.1",
+        "react-scripts": "1.1.4"
+    }
+}
